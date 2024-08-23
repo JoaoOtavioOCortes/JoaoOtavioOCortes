@@ -1,7 +1,7 @@
 - Hi, I’m @JoaoOtavioOCortes
 - I’m interested in learn and work whith programing!
-- I’m currently learning python in UGB
-- Work with OOP and C# .Net
+- I’m currently learning python
+-  Working with OOP and C#, .Net
 - I’m looking to collaborate on the programing word while I learning
 - How to reach me : email : joaootavioocortes@gmail.com
                        instagram : @jao.bolinha_ntn                    
