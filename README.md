@@ -1,7 +1,7 @@
 - Hi, I’m @JoaoOtavioOCortes
 - I’m interested in learn and work whith programing!
 - I’m currently learning python
--  Working with OOP and C#, .Net
+-  Working with OOP, C# and .Net
 - I’m looking to collaborate on the programing word while I learning
 - How to reach me : email : joaootavioocortes@gmail.com
                        instagram : @jao.bolinha_                   
