@@ -2,7 +2,7 @@
 - I’m into programing and resolve problems!
 - I’m currently learning and working with OOP, C# and .Net
 - I’m working as Dev Jr at VrSystem!!
-- How to reach me : email : joaootavioocortes@gmail.com
+- How to reach me : joaootavioocortes@gmail.com
                             instagram : @jaobolinha_                   
 <!---
 JoaoOtavioOCortes/JoaoOtavioOCortes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
