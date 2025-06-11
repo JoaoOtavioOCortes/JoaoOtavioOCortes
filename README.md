@@ -5,10 +5,8 @@
 - How to reach me : joaootavioocortes@gmail.com
                             instagram : @jaobolinha_                   
 
-
-<div align="start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoOtavioOCortes&locale=pt-br&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true" />
+![JoaoOtavioOCortes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOtavioOCortes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<div align="start">
+  <img height="187em" src="https://github-readme-stats.vercel.app/api?username=JoaoOtavioOCortes&locale=pt-br&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true" />
 </div>
-![JoaoOtavioOCortes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOtavioOCortes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-  ![JoaoOtavioOCortes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoOtavioOCortes&theme=vue-dark&hide_border=true)
+ ![JoaoOtavioOCortes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoOtavioOCortes&theme=vue-dark&hide_border=true)
