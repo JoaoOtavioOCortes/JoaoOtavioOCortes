@@ -5,7 +5,6 @@
 - How to reach me : joaootavioocortes@gmail.com
                             instagram : @_jaobolinha_                   
 
-![JoaoOtavioOCortes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoOtavioOCortes&theme=vue-dark&hide_border=true)
+[![JoaoOtavioOCortes's Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaoOtavioOCortes&theme=transparent&hide_border=true&border_radius=1&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![JoaoOtavioOCortes's Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaoOtavioOCortes&theme=transparent&border_radius=1&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
